@@ -1,1 +1,1 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amadeuarderiu&theme=dark&show_icons=true&count_private=true&hide=stars,issues" alt="github stats" title="github stats" /></p>
+
